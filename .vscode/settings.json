@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "InterfaceOptionsFrame_OpenToCategory",
+        "LibStub",
+        "ShowGarrisonLandingPage",
+        "SlashCmdList"
+    ]
+}

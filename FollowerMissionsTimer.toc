@@ -1,0 +1,10 @@
+## Author: Возо @ Gordunni
+## Interface: 90105
+## Title: Follower Missions Timer
+## SavedVariables: FMT_Data, FMT_Options
+## Version: 9.1.5.1
+
+embeds.xml
+utils.lua
+summary.lua
+core.lua
